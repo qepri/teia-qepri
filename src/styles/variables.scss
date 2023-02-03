@@ -1,10 +1,10 @@
 :root {
-  --background-color: #ffffff;
-  --background-color-rgb: 255, 255, 255;
+  --background-color: #b1b1b1;
+  --background-color-rgb: 205, 205, 255;
   --text-color: #000000;
   --border-color: rgba(0, 0, 0, 0.1);
-  --shadow-color: rgba(0, 0, 0, 0.2);
-  --secondary-color: rgba(0, 0, 0, 0.5);
+  --shadow-color: #8dff9e43;
+  --secondary-color: rgba(144, 224, 255, 0.5);
 
   --gray-0: #ffffff;
   --gray-5: #f2f2f2;
@@ -35,6 +35,6 @@ $font-large-mobile: 18px;
 $font-body-mobile: 16px;
 $font-small-mobile: 14.22px;
 
-$theme-duration: 0.5s;
-$mobile-padding: 1.25rem;
-$letter-spacing: 0.015em;
+$theme-duration: 0.7s;
+$mobile-padding: 1.35rem;
+$letter-spacing: 0.02em;

@@ -2,7 +2,7 @@
 @import '../../styles/layout.scss';
 
 .tag {
-  font-family: 'Im Fell English', 'Roboto Mono', 'Roboto', monospace;
+  font-family: 'Rubik-Variable', 'Roboto Mono', 'Roboto', monospace;
   background: none;
   border: none;
   display: inline-flex;
@@ -15,12 +15,20 @@
   font-weight: bold;
   align-items: center;
   &:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    background-color: black;
+    color: rgb(175, 175, 175);
     cursor: pointer;
+    transform: scale(1.2);
   }
+
   img {
-    // padding-right: 1em;
     margin-right: 0.5em;
+    transition: all 0.5s ease-in-out;
+  }
+
+  img:hover {
+    transform: scale(1.2);
   }
 }
 

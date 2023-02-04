@@ -1,6 +1,6 @@
 # Teia is
 
-... a collaborative artwork made of artworks, a place for ideas and creative works.
+... a collaborative artwork made of artworks, a stylized version by Sergio Aguirrre.
 
 ... a non-profit, open-source online platform for trading digital assets as OBJKT NFTs.
 
